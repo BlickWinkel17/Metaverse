@@ -14,7 +14,7 @@ This repository consists of some learning notes related to data science, machine
 Including: data wrangling, statistical analysis, recommendation system, machine learning pipelines and some simple CNNs based on Keras.
 
 ## Machine Learning
-Including: Linear Regression, Logistic Regression, KNN and decision trees.
+Including: Linear Regression, Logistic Regression, KNN, decision tree and other tree-based models.
 
 ## Deep Learning
-Including: MLP, CNN, RNN(LSTM), GAN(CycleGAN). Notes related to Transformers are about to be added in the near future.
+Including: MLP, CNN, RNN(LSTM), GAN(CycleGAN) based on PyTorch. Notes related to Transformers are about to be added in the near future.
