@@ -8,7 +8,7 @@
 5. [Possible Improvements](#possible-improvements)
 
 ## Project Overview
-This project is part of the [Udacity Data Science Nano Degree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025). This project will analyze a [data set](https://github.com/BlickWinkel17/DisasterResponsePipeline/tree/master/data) containing real messages that were sent during disaster events. Those messages are sent from social media or from disaster response organizations. This project will build a ETL pipeline to load and process data, and a machine learning pipeline to classify those messages so as to send them to an appropriate disaster relief agency.
+This project will analyze a [data set](https://github.com/BlickWinkel17/DisasterResponsePipeline/tree/master/data) containing real messages that were sent during disaster events. Those messages are sent from social media or from disaster response organizations. This project will build a ETL pipeline to load and process data, and a machine learning pipeline to classify those messages so as to send them to an appropriate disaster relief agency.
 
 ## Project Components
 There are three components in the project.
