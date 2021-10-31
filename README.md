@@ -17,4 +17,4 @@ Including: data wrangling, statistical analysis, recommendation system, machine 
 Including: Linear Regression, Logistic Regression, KNN, decision tree and other tree-based models.
 
 ## Deep Learning
-Including: MLP, CNN, RNN(LSTM), GAN(CycleGAN) based on PyTorch. Notes related to Transformers are about to be added in the near future.
+Including: MLP, CNN, RNN(LSTM), GAN(CycleGAN), BERT based on PyTorch. 
