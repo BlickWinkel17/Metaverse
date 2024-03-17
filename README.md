@@ -18,3 +18,6 @@ Including: Linear Regression, Logistic Regression, KNN, decision tree and other 
 
 ## Deep Learning
 Including: MLP, CNN, RNN(LSTM), GAN(CycleGAN), BERT based on PyTorch. 
+
+
+20240317: Never Give Up Thinking.
